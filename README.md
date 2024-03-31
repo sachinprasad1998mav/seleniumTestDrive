@@ -1,5 +1,4 @@
-Generated report:
-![Screenshot of My Application](generated Test Report.png)
+![Screenshot of My Application](generated%20Test%20Report.png)
 
 
 This is my repository of my practise of the UI testing done with the Selenium framework with Java programming language.
